@@ -5,7 +5,6 @@ Un'applicazione di chat in tempo reale semplice e performante, costruita con Dja
 ## Funzionalità
 *   **Autenticazione Utente:** Login e Logout gestiti da Django.
 *   **Chat Realtime:** Scambio messaggi istantaneo tramite WebSocket.
-*   **Offline Support:** I messaggi vengono salvati localmente e inviati automaticamente al ritorno della connessione.
 
 ## Requisiti
 *   Python 3.9+
